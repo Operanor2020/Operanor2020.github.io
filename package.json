@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mongoose": "^6.1.3"
+  },
+  "scripts": {
+    "build-amd": "npm run bundle-amd && npm run minify-amd"
+  }
+}
