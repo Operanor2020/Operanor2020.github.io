@@ -1,0 +1,41 @@
+        .lead{
+            margin-top:22.5%;
+        }
+        .lead p{
+            text-decoration: none;
+        }
+        .px-3 h5{
+            margin-top: 20%;
+        }
+        .img-js1 img{
+            position: absolute;
+            margin-top: -2%;
+            margin-left: -49%;
+        }
+        .img-js-one img{
+            position: absolute;
+            margin-top: 20%;
+            margin-left: 10%;
+        }
+        .img-js-two img{
+            position: absolute;
+            margin-top: 20%;
+            margin-left: -47%;
+        }
+        .img-js-thee img{
+            position: absolute;
+            margin-top: 3%;
+            margin-left: -17%;
+        }
+
+        #avatar{
+            margin-left: 70%;
+            border-radius: 20px; /* Радиус скругления */
+            border: 3px solid white; /* Параметры рамки */
+            box-shadow: 0 0 7px #666; /* Параметры тени */
+        }
+        .text-end{
+            margin-right:40%;
+            margin-top: -35%;
+
+        }

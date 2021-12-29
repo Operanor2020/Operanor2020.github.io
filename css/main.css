@@ -1,0 +1,54 @@
+.lead{
+            margin-top: 22.5%;
+        }
+        .lead p{
+            text-decoration: none;
+        }
+        .px-3 h5{
+            margin-top: 20%;
+        }
+        .img-js img{
+            position: absolute;
+            position: fixed;
+            margin-top: -2%;
+            margin-left: -49%;
+        }
+        .img-js-one img{
+            position: absolute;
+            margin-top: 20%;
+            margin-left: 10%;
+        }
+        .img-js-two img{
+            position: absolute;
+            margin-top: 20%;
+            margin-left: -47%;
+        }
+        .img-js-thee img{
+            position: absolute;
+            margin-top: 3%;
+            margin-left: -17%;
+        }
+
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            user-select: none;
+        }
+        
+        #vhod{
+            position: fixed;
+            margin-left: -4%;
+        }
+        
+        .bodyy{
+            position: fixed;
+            margin: 0px;
+        }
+        .animate{
+            height: 1080px;
+            width: 1920px;
+            
+        }
+
